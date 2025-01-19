@@ -238,3 +238,28 @@ a {
 }
 
 /* SECTION-3 END */
+
+/* SECTION-4 START */
+
+.section4 {
+    background: url('/images/runners\ 1.png');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 240px 0;
+}
+.section4 .container {
+    display: grid;
+}
+.section4-info {
+    justify-self: flex-end;
+    width: 490px;
+    color: #fff;
+}
+.section4-info p {
+    color: #fff;
+    border-color: #fff;
+}
+
+/* SECTION-4 END */
