@@ -145,4 +145,59 @@ a {
     bottom: 0px;
 }
 
-/* HERO-1 START */
+/* SECTION-1 START */
+
+/* SECTION-2 START */
+
+.section2 {
+    padding: 68px 0 0 10px;
+}
+.section2-div {
+    display: flex;
+    column-gap: 80px;
+}
+.section2-box {
+    width: 100%;
+}
+.section2-box h3 {
+    font-size: 18px;
+    line-height: 27px;
+    margin-bottom: 30px;
+    
+}
+.section2-box p {
+    font-size: 15px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #333;
+}
+.threeDots {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    margin-top: 20px;
+}
+.threeDots span {
+    width: 8px;
+    height: 8px;
+    background-color: #ddd;
+}
+.learnMore {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+.learnMore {
+    color: #EA625C;
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+.learnMore span {
+    width: 40px;
+    height: 3px;
+    background-color: #EA625C;
+}
+
+/* SECTION-2 END */
