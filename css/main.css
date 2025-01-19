@@ -84,3 +84,65 @@ a {
 }
 
 /* HEADER END */
+
+/* HERO-1 START */
+.main-heading__wrapper {
+    margin-right: 20px;
+    width: 490px;
+}
+.main-heading {
+    font-size: 50px;
+    font-weight: bold;
+    color: #000;
+    line-height: 60px;
+}
+
+.main-subheading {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 20px;
+    color: #777777;
+    border-left: 3px solid #666;
+    padding-left: 40px;
+    margin: 30px 0;
+}
+.hero-section-div {
+    position: relative;
+    overflow: hidden;
+    border-bottom: 2px solid #ddd;
+}
+.hero-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 145px 0 175px 0;
+    overflow: hidden;
+}
+.hero-button {
+    width: 260px;
+    height: 51px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #EA625C;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.hero-button:hover {
+    background-color: #EA625C;
+}
+
+.image-content {
+    position: absolute;
+    width: 587px;
+    height: 565px;
+    right: -212px;
+    bottom: 0px;
+}
+
+/* HERO-1 START */
