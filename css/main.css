@@ -84,3 +84,182 @@ a {
 }
 
 /* HEADER END */
+
+/* HERO-1 START */
+.main-heading__wrapper {
+    margin-right: 20px;
+    width: 490px;
+}
+.main-heading {
+    font-size: 50px;
+    font-weight: bold;
+    color: #000;
+    line-height: 60px;
+}
+
+.main-subheading {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 20px;
+    color: #777777;
+    border-left: 3px solid #666;
+    padding-left: 40px;
+    margin: 30px 0;
+}
+.hero-section-div {
+    position: relative;
+    overflow: hidden;
+    border-bottom: 2px solid #ddd;
+}
+.hero-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 145px 0 175px 0;
+    overflow: hidden;
+}
+.hero-button {
+    width: 260px;
+    height: 51px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #EA625C;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.hero-button:hover {
+    background-color: #EA625C;
+}
+
+.image-content {
+    position: absolute;
+    width: 587px;
+    height: 565px;
+    right: -212px;
+    bottom: 0px;
+}
+
+/* SECTION-1 START */
+
+/* SECTION-2 START */
+
+.section2 {
+    padding: 68px 0 0 10px;
+}
+.section2-div {
+    display: flex;
+    column-gap: 80px;
+}
+.section2-box {
+    width: 100%;
+}
+.section2-box h3 {
+    font-size: 18px;
+    line-height: 27px;
+    margin-bottom: 30px;
+    
+}
+.section2-box p {
+    font-size: 15px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #333;
+}
+.threeDots {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    margin-top: 20px;
+}
+.threeDots span {
+    width: 8px;
+    height: 8px;
+    background-color: #ddd;
+}
+.learnMore {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+.learnMore {
+    color: #EA625C;
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+.learnMore span {
+    width: 40px;
+    height: 3px;
+    background-color: #EA625C;
+}
+
+/* SECTION-2 END */
+
+/* SECTION-3 START */
+
+.section3 {
+    padding: 70px 0;
+}
+.section3-info {
+    width: 490px;
+}
+
+.section3-info h1,
+.section4-info h1 {
+    font-size: 50px;
+    line-height: 60px;
+    font-weight: 700;
+}
+.section3-info p,
+.section4-info p {
+    border-left: 3px solid #888888;
+    padding-left: 40px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #777;
+    margin: 30px 0;
+}
+.section3 img {
+    width: 400px;
+    height: 600px;
+}
+.section3 .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* SECTION-3 END */
+
+/* SECTION-4 START */
+
+.section4 {
+    background: url('/images/runners\ 1.png');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 240px 0;
+}
+.section4 .container {
+    display: grid;
+}
+.section4-info {
+    justify-self: flex-end;
+    width: 490px;
+    color: #fff;
+}
+.section4-info p {
+    color: #fff;
+    border-color: #fff;
+}
+
+/* SECTION-4 END */
