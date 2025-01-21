@@ -1,0 +1,11 @@
+1. H1 dan H6 gacha bo'lgan teglar o'z qonun qoidalari bo'yicha ishlatiladi
+2. Github ga brenchlar ko'rinishida kommentariyalar qoldirilishi kerak(5ta dan kam bolmasligi kerak)
+3. Netlify ga joylaniladi
+
+Proyekt bo'yicha:
+1. Rasmlar 2x ga moslangan bolishi kerak
+2. iconlar SVG holadta olinishi kerak
+3. DRY, KISS, YAGNI prinsiplari boyicha ishlanilishi
+4. Ohirgi page "Background attechment fixed" bolishi kerak
+5. Pixel Perfect bolishi kerak
+6 Custom property dan foydalanishi kerak(rasmlarda, fontlarda)
