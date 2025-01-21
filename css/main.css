@@ -159,7 +159,7 @@ a {
 .section2-box {
     width: 100%;
 }
-.section2-box h3 {
+.section2-box h2 {
     font-size: 18px;
     line-height: 27px;
     margin-bottom: 30px;
@@ -211,8 +211,8 @@ a {
     width: 490px;
 }
 
-.section3-info h1,
-.section4-info h1 {
+.section3-info h2,
+.section4-info h2 {
     font-size: 50px;
     line-height: 60px;
     font-weight: 700;
