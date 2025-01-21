@@ -242,7 +242,7 @@ a {
 /* SECTION-4 START */
 
 .section4 {
-    background: url('/images/runners\ 1.png');
+    background: url('/images/runners 1.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -263,3 +263,13 @@ a {
 }
 
 /* SECTION-4 END */
+
+
+
+/* Ретина-экран */
+@media only screen and (min-resolution: 192dpi), /* Для устройств с разрешением выше 192dpi */
+       only screen and (min-resolution: 2dppx) { /* Для ретина-дисплеев */
+    .section4 {
+        background-image: url('/images/runners 1@2x.jpg');
+    }
+}
